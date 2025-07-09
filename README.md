@@ -8,7 +8,7 @@ An AI-powered chatbot designed to guide users in career decisions, powered by an
 
 This project builds a smart career counselor that:
 
-- Analyzes user queries through NLP and a neural network model.
+- Analyzes user queries through online LLM Models with the help of API.
 - Matches inputs to pre-defined **intents** and generates contextually relevant responses.
 - Uses a Streamlit-based interface to engage users interactively.
 
