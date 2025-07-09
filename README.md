@@ -14,3 +14,5 @@ This project builds a smart career counselor that:
 
 ---
 
+## Procedure To Build Such Applications
+- Tutorial available on Medium : https://medium.com/@harshitd2004/building-a-career-counselling-chatbot-with-gradio-and-groq-api-a31df90fea9f
