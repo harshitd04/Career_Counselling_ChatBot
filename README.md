@@ -1,10 +1,10 @@
-# 🎓 Career Counselling ChatBot
+# Career Counselling ChatBot
 
 An AI-powered chatbot designed to guide users in career decisions, powered by an NLP-trained neural network and a Streamlit front-end.
 
 ---
 
-## ✨ Overview
+## Overview
 
 This project builds a smart career counselor that:
 
